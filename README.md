@@ -1,67 +1,49 @@
-## Hi there 👋
-# 🐍 Offensive Security | Ethical Hacker | Pentester
+# 🛡️ Aspiring Ethical Hacker | Cybersecurity Student |
 
-![Pentester Banner](https://your-cool-banner-image-link.com)
+![Cybersecurity Banner](https://images.app.goo.gl/C5u2KkEnnrqJEY7e9)
 
-## 👋 Hey there, I’m [Your Name] — I break things so you can build them safer.
+## 👋 Hey, I’m Dinesh Kannan — learning to secure the digital world one exploit at a time.
 
-🔍 **About Me**
-I'm a professional penetration tester with a passion for turning 0️⃣days into secure systems. I specialize in identifying vulnerabilities, writing exploits, and creating defensive hardening strategies. Whether it's web apps, APIs, cloud, or infrastructure — if it has an IP, I’ll test it.
-
----
-
-### 💻 What I Do
-- 🔥 Offensive Security Assessments  
-- 🕵️ Vulnerability Research & Exploitation  
-- 💡 Security Automation & Custom Scripts  
-- 📜 Reporting with clear remediation paths  
-- ⚙️ Red Team Engagements | CTF Addict  
+🔐 **About Me**  
+Currently diving deep into the world of cybersecurity and ethical hacking! I'm passionate about understanding how systems break, so I can help fix them. Exploring everything from network security and web app testing to malware analysis and CTF challenges.
 
 ---
 
-### 🧠 Skills & Tools
+### 🧠 Learning Focus
 
-- **Languages:** Python, Bash, Go, JavaScript
-- **Frameworks:** Metasploit, Burp Suite, Nmap, Nessus, OWASP ZAP
-- **Cloud & Infra:** AWS Pentesting, Azure Red Teaming, Docker Exploitation
-- **Specialties:** Web App Pentesting | Network Pentesting | Social Engineering | Wireless Attacks | Malware Analysis
-
----
-
-### 📂 Featured Projects
-
-- 💣 `Exploit-Development-Lab` — Custom scripts and PoCs for CVEs.
-- ⚙️ `AutoRecon` — Automated reconnaissance tool for initial engagements.
-- 🧬 `Payload-Collection` — A well-curated list of attack payloads for pentesters.
-- 🛡️ `Bypass-Kit` — Techniques and tools to bypass common security filters.
+- 🕵️ Penetration Testing & Vulnerability Assessment  
+- 💣 Exploit Development Basics  
+- 💻 Web Application Security (OWASP Top 10)  
+- 🔥 CTF Writeups & Challenges  
+- ☁️ Cloud Security Fundamentals  
+- 📚 Always expanding my toolkit!
 
 ---
 
-### 📬 Contact & Connect
+### ⚙️ Tools & Tech I Use
 
-- 🌐 [Portfolio / Blog](https://yourwebsite.com)
-- 🐦 Twitter: [@yourhandle](https://twitter.com/yourhandle)
-- 💼 LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourhandle)
-- 🧑‍💻 GitHub: [yourusername](https://github.com/yourusername)
+- 💡 Burp Suite | Nmap | Wireshark | OWASP ZAP  
+- 💻 Kali Linux | Parrot OS  
+- 🐍 Python | Bash | JavaScript (for scripting & automation)  
+- 🔗 Git & GitHub (for collab and personal projects)
 
 ---
 
-> 💡 **Security is a process, not a product.**   
-> Let's break things — so others can't.
+### 🚀 Projects & Labs
 
+- 🧪 `VulnHub-Writeups` — My personal notes and walkthroughs for CTF labs.  
+- 🔍 `Recon-Scripts` — Custom scripts for scanning & initial footprinting.  
+- 💥 `Payloads-Practice` — A playground for XSS, SQLi, and other attack payloads.  
+- 🧰 `Learning-Path` — A curated list of resources I’m using to sharpen my hacking skills.
 
+---
 
-<!--
-**kenshin-707/kenshin-707** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🕸️ Connect With Me
+- 💼 LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourhandle)  
+- 🧑‍💻 GitHub: [yourusername](https://github.com/kenshin-707)  
+- 🧠 Always down to connect, collaborate, and hack (ethically)!
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> 💡 **"Hack the planet... ethically!"**  
+> Learning every day, breaking responsibly, building securely. 
