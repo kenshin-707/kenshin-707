@@ -1,6 +1,6 @@
 # 🛡️ Aspiring Ethical Hacker | Cybersecurity Student |
 
-![Cybersecurity Banner]([https://images.app.goo.gl/C5u2KkEnnrqJEY7e9](https://images.app.goo.gl/3fPD92uRwbHC8krdA))
+![Cybersecurity Banner](https://blogs.halodoc.io/content/images/size/w2000/2024/08/190.-Security-01.png)
 
 ## 👋 Hey, I’m Dinesh Kannan — learning to secure the digital world one exploit at a time.
 
