@@ -39,8 +39,8 @@ Currently diving deep into the world of cybersecurity and ethical hacking! I'm p
 ---
 
 ### 🕸️ Connect With Me
-- 💼 LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourhandle)  
-- 🧑‍💻 GitHub: [yourusername](https://github.com/kenshin-707)  
+- 💼 LinkedIn: [Your LinkedIn](www.linkedin.com/in/dinesh-kannan-v-161295379)  
+- 🧑‍💻 Discord: [yourusername](Kenshin_7o7) 
 - 🧠 Always down to connect, collaborate, and hack (ethically)!
 
 ---
