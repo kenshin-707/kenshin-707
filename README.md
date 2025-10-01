@@ -5,7 +5,7 @@
 ## 👋 Hey, I’m Dinesh Kannan — learning to secure the digital world one exploit at a time.
 
 🔐 **About Me**  
-Currently diving deep into the world of cybersecurity and ethical hacking! I'm passionate about understanding how systems break, so I can help fix them. Exploring everything from network security and web app testing to malware analysis and CTF challenges.
+Currently diving deep into the world of cybersecurity and ethical hacking! I'm curious about how a systems can be breaked and to fix them. Exploring everything from network security and web app testing to malware analysis and CTF challenges.
 
 ---
 
@@ -13,17 +13,17 @@ Currently diving deep into the world of cybersecurity and ethical hacking! I'm p
 
 - 🕵️ Penetration Testing & Vulnerability Assessment  
 - 💣 Exploit Development Basics  
-- 💻 Web Application Security (OWASP Top 10)  
 - 🔥 CTF Writeups & Challenges  
 - ☁️ Cloud Security Fundamentals  
 - 📚 Always expanding my toolkit!
-
+- ⚙️ Reverse Engineering 
 ---
 
 ### ⚙️ Tools & Tech I Use
 
 - 💡 Burp Suite | Nmap | Wireshark | OWASP ZAP  
-- 💻 Kali Linux | Parrot OS  
+- 💻 Kali Linux | Parrot OS
+- 🐉 ghidra | Binary Ninja | IDA  
 - 🐍 Python | Bash | JavaScript (for scripting & automation)  
 - 🔗 Git & GitHub (for collab and personal projects)
 
@@ -31,8 +31,7 @@ Currently diving deep into the world of cybersecurity and ethical hacking! I'm p
 
 ### 🚀 Projects & Labs
 
-- 🧪 `VulnHub-Writeups` — My personal notes and walkthroughs for CTF labs.  
-- 🔍 `Recon-Scripts` — Custom scripts for scanning & initial footprinting.  
+- 🧪 `VulnHub-Writeups` — My personal notes and walkthroughs for CTF labs.   
 - 💥 `Payloads-Practice` — A playground for XSS, SQLi, and other attack payloads.  
 - 🧰 `Learning-Path` — A curated list of resources I’m using to sharpen my hacking skills.
 
