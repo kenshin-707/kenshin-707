@@ -38,8 +38,8 @@ Currently diving deep into the world of cybersecurity and ethical hacking! I'm c
 ---
 
 ### 🕸️ Connect With Me
-- 💼 LinkedIn: [Your LinkedIn](www.linkedin.com/in/dinesh-kannan-v-161295379)  
-- 🧑‍💻 Discord: [yourusername](Kenshin_7o7) 
+- 💼 LinkedIn: [Dinesh Kannan](www.linkedin.com/in/dinesh-kannan-v-161295379)  
+- 🧑‍💻 Discord: [Kenshin](Kenshin_7o7) 
 - 🧠 Always down to connect, collaborate, and hack (ethically)!
 
 ---
