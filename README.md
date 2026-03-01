@@ -1,4 +1,4 @@
-# 🛡️ Aspiring Ethical Hacker | Cybersecurity Student |
+# 🛡️ Aspiring Ethical Hacker | Cybersecurity Student | Top 6% in Try Hack Me |
 
 ![Cybersecurity Banner](https://blogs.halodoc.io/content/images/size/w2000/2024/08/190.-Security-01.png)
 
@@ -11,10 +11,10 @@ Currently diving deep into the world of cybersecurity and ethical hacking! I'm c
 
 ### 🧠 Learning Focus
 
-- 🕵️ Penetration Testing & Vulnerability Assessment  
+- 🕵️ Penetration Testing & Vulnerability Assessment
+- 👾 malware analysis
 - 💣 Exploit Development Basics  
-- 🔥 CTF Writeups & Challenges  
-- ☁️ Cloud Security Fundamentals  
+- 🔥 CTF Writeups & Challenges    
 - 📚 Always expanding my toolkit!
 - ⚙️ Reverse Engineering 
 ---
@@ -22,18 +22,18 @@ Currently diving deep into the world of cybersecurity and ethical hacking! I'm c
 ### ⚙️ Tools & Tech I Use
 
 - 💡 Burp Suite | Nmap | Wireshark | OWASP ZAP  
-- 💻 Kali Linux | Parrot OS
+- 💻 Kali Linux | Windows
 - 🐉 ghidra | Binary Ninja | IDA  
-- 🐍 Python | Bash | JavaScript (for scripting & automation)  
+- 🐍 Python | C | Bash | JavaScript (for scripting & automation)  
 - 🔗 Git & GitHub (for collab and personal projects)
 
 ---
 
 ### 🚀 Projects & Labs
 
-- 🧪 `VulnHub-Writeups` — My personal notes and walkthroughs for CTF labs.   
-- 💥 `Payloads-Practice` — A playground for XSS, SQLi, and other attack payloads.  
-- 🧰 `Learning-Path` — A curated list of resources I’m using to sharpen my hacking skills.
+- `Skin Care ` — My hackathon project which i created by vibe coding .   
+- `home lab ` — A lab which contain two laptops were i practic my learnings .  
+- `Reader ` — A web scrapper which collects news content based on my interest .
 
 ---
 
