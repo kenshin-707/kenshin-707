@@ -1,6 +1,6 @@
 # Aspiring Cybersecurity Student | Top 2% in Try Hack Me | 
 
-![Cybersecurity Banner](https://blogs.halodoc.io/content/images/size/w2000/2024/08/190.-Security-01.png)
+![Cybersecurity Banner](Cyber%20Samurai%20Cybersecurity%20Banner.png)
 
 ## 👋 Hey, I’m Dinesh Kannan — learning to secure the digital world one exploit at a time.
 
